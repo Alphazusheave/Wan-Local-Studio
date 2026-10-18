@@ -176,16 +176,3 @@ A: A 5-second 720p clip takes roughly 4-9 minutes on a 24 GB card, depending on 
 
 ---
 
-## 📌 About (для поля About на GitHub)
-
-**Скопируй это в поле About:**
-
-```
-🎬 Wan 2.2 Local Studio — zero-config desktop app for local AI video generation with Wan 2.2. Auto-installs dependencies, detects GPU, and provides a simple GUI. Unofficial community frontend.
-```
-
-**Topics (теги для GitHub — до 20 штук):**
-
-```
-wan2.2, ai-video-generation, text-to-video, image-to-video, local-inference, desktop-app, video-generator, open-source, apache-2.0, windows-tool, linux-tool, macos-tool, zero-config, gpu-accelerated, wan-video, ai-creative-tools, local-ai, video-synthesis, generative-ai, comfyui-alternative
-```
